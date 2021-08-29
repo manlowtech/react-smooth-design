@@ -1,0 +1,21 @@
+{
+  "name": "react-smooth-design",
+  "version": "1.0.0",
+  "description": "lite weight react components library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manlowtech/react-smooth-design.git"
+  },
+  "keywords": [
+    "reactjs",
+    "animation",
+    "design",
+    "lite"
+  ],
+  "author": "Manlow Charumbira",
+  "license": "ISC"
+}
